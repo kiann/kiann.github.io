@@ -1,6 +1,6 @@
 # 关于我
 
-![isme](isme.png)
+![isme](/md/isme.png)
 
 我叫soar，是个Android程序猿，出于兴趣也偶尔会研究一些其他方向上的技术，spring啊swift啊c#啊什么的。
 
