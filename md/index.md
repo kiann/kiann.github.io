@@ -1,3 +1,5 @@
+
+
 # 关于我
 
 <img src="md/isme.png" width="900"/>
@@ -20,13 +22,18 @@
 
 这是我刚刚开始起步的blog，之前的csdn和cnblog基本就算是废了吧。[https://github.com/kiann/blog](https://github.com/kiann/blog)
 
+
 这是一些我自己常用的工具类代码，放这里方便自己下载
 [https://github.com/kiann/SampleCode](https://github.com/kiann/SampleCode)
 
+
 这是闲来无事自己写的一个将任意文件转换成图片的工具，java实现的，原本是想靠它把免费图床变成网盘来用的，目前只实现的核心功能，其他后加吧。
 [https://github.com/kiann/imgtrans-core](https://github.com/kiann/imgtrans-core)
+
+
 这是intellij platform sdk doc 的中文翻译，手动cv加google机番出来的，还没完成。[https://github.com/kiann/intellij-sdk-docs-zh](https://github.com/kiann/intellij-sdk-docs-zh)
 
-如果有好坑欢迎联系我，如果有任何问题也欢迎随时找我。
+
+如果有好坑好位子欢迎联系我，如果有任何问题也欢迎随时找我。
 
 [ifsoar@qq.com](mailto:ifsoar@qq.com)
