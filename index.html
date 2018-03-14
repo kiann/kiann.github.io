@@ -14,7 +14,7 @@
             $.get(
                 "md/index.md",
                 function(data,status){
-                    console.info(data);
+                    $("#contentView").html(marked(data));
                 }
             );
         </script>
